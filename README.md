@@ -56,8 +56,8 @@
 4.1 The Y86-64 Instruction Set Architecture 391  
 4.2 Logic Design and the Hardware Control Language HCL 408      //4주  
 4.3 Sequential Y86-64 Implementations 420  
-4.4 General Principles of Pipelining 448                        //5주
-4.5 Pipelined Y86-64 Implementations 457                        //6주 7주
+4.4 General Principles of Pipelining 448                        //5주  
+4.5 Pipelined Y86-64 Implementations 457                        //6주 7주  
 4.6 Summary 506  
   
    
@@ -69,23 +69,23 @@
 5.5 Reducing Procedure Calls 548  
 5.6 Eliminating Unneeded Memory References 550  
 5.7 Understanding Modern Processors 553               
-5.8 Loop Unrolling 567                                          // 38page 8주  
+5.8 Loop Unrolling 567                                                        // 38page 8주  
 5.9 Enhancing Parallelism 572    
-5.10 Summary of Results for Optimizing Combining Code 583
-5.11 Some Limiting Factors 584
-5.12 Understangding Memory Performance 589
-5.13 Life in the Real World: Performance Improvement Techniques 597   
-5.14 Identifying and Eliminating Performance Bottlenecks 598  
+5.10 Summary of Results for Optimizing Combining Code 583  
+5.11 Some Limiting Factors 584  
+5.12 Understangding Memory Performance 589  
+5.13 Life in the Real World: Performance Improvement Techniques 597    
+5.14 Identifying and Eliminating Performance Bottlenecks 598                  // 32page 9주  
 5.15 Summary 604    
   
     
 ### 6. The memory hierarchy    
 6.1 Storage Technologies 617  
 6.2 Locality 640   
-6.3 The Memory Hierarchy 645   
+6.3 The Memory Hierarchy 645                                                  // 33page 10주    
 6.4 Cache Memories 650  
 6.5 Writing Cache-friendly Code 669  
-6.6 Putting It Together: The Impact of Caches on Program Performance 675  
+6.6 Putting It Together: The Impact of Caches on Program Performance 675      // 34page 11주  
 6.7 Summary 684  
   
     
@@ -101,9 +101,9 @@
 7.9 Loading Executable Object Files 733  
 7.10 Dynamic Linking with Shared Libraries 734  
 7.11 Loading and Linking Shared Libraries from Applications 737  
-7.12 Position-Independent Code (PIC) 740  
-7.13 Library Interpositioning 743
-7.14 Tools for Manipulating Object Files 749  
+7.12 Position-Independent Code (PIC) 740                                  // 39page 12주  
+7.13 Library Interpositioning 743 
+7.14 Tools for Manipulating Object Files 749                              // 6page 13주  
 7.14 Summary 749  
   
    
@@ -111,25 +111,25 @@
 8.1 Exceptions 759  
 8.2 Processes 768  
 8.3 System Call Error Handling 773  
-8.4 Process Control 774  
+8.4 Process Control 774                                               // 33page 14주  
 8.5 Signals 792  
 8.6 Nonlocal Jumps 817  
-8.7 Tools for Manipulating Processes 822  
+8.7 Tools for Manipulating Processes 822                              // 31page 15주  
 8.8 Summary 823   
   
   
 ### 9. Virtual Memory    
-9.1 Physical and Virtual Addressing 839  
+9.1 Physical and Virtual Addressing 839                    
 9.2 Address Spaces 840  
 9.3 VM as a Tool for Caching 841  
 9.4 VM as a Tool for Memory Management 847  
-9.5 VM as a Tool for Memory Protection 848  
+9.5 VM as a Tool for Memory Protection 848 
 9.6 Address Translation 849   
 9.7 Case Study: The Intel Core i7/Linux Memory System 861  
-9.8 Memory Mapping 869  
+9.8 Memory Mapping 869                                               //36page 16주  
 9.9 Dynamic Memory Allocation 875  
 9.10 Garbage Collection 901  
-9.11 Common Memory-Related Bugs in C Programs 906  
+9.11 Common Memory-Related Bugs in C Programs 906                    //37page 17주
 9.12 Summary 911  
   
     
@@ -145,7 +145,7 @@
 10.8 Sharing Files 942   
 10.9 I/O Redirection 945  
 10.10 Standard I/O 947  
-10.11 Putting It Together: Which I/O Functions Should I Use? 947   
+10.11 Putting It Together: Which I/O Functions Should I Use? 947   // 24Page 18주  
 10.12 Summary 949  
   
   
@@ -154,8 +154,8 @@
 11.2 Networks 955  
 11.3 The Global IP Internet 960  
 11.4 The Sockets Interface 968  
-11.5 Web Servers 984  
-11.6 Putting It Together: The Tiny Web Server 992  
+11.5 Web Servers 984                                                     // 38Page 19주  
+11.6 Putting It Together: The Tiny Web Server 992                       // 8page 20주  
 11.7 Summary 1000  
   
   
@@ -164,9 +164,9 @@
 12.2 Concurrent Programming with I/O Multiplexing 1013  
 12.3 Concurrent Programming with Threads 1021  
 12.4 Shared Variables in Threaded Programs 1028  
-12.5 Synchronizing Threads with Semaphores 1031  
+12.5 Synchronizing Threads with Semaphores 1031                      //  40page 21주  
 12.6 Using Threads for Parallelism 1049  
-12.7 Other Concurrency Issues 1056  
+12.7 Other Concurrency Issues 1056                                   // 17page 22주  
 12.8 Summary 1066  
   
 ## APPENDIX
