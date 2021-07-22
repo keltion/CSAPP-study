@@ -11,8 +11,11 @@
 ### 3. Machine-Level Representation of Programs  
 * 3.1\~3.3: 강재영
 * 3.4: 배준현
-* 3.5: 김주영
-  
+* 3.5: 김주영  
+* 3.6-1(13page): 김주영  
+* 3.6-2(13page): 강재영  
+* 3.6-3(12page): 배준현  
+   
   
 # CSAPP Contents  
 ## Part 0 Intro  
