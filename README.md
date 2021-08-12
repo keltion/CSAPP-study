@@ -18,6 +18,10 @@
 * 3.7: 김주영
 * 3.8: 강재영
 * 3.9: 배준현
+* 3.10: 배준현, 강재영
+
+### 4. Processor Architecture 
+* 4.1: 강재영, 김주영
 
 
   
@@ -51,17 +55,17 @@
 3.3 Data Formats 213  
 3.4 Accessing Information 215  
 3.5 Arithmetic and Logical Operations 227  
-3.6 Control 236                                                 // 1주  
+3.6 Control 236                                                 
 3.7 Procedures 274  
 3.8 Array Allocation and Access 291  
-3.9 Heterogeneous Data Structures 301                           // 2주   
+3.9 Heterogeneous Data Structures 301                           
 3.10 Combining Control and Data in Machine-Level Programs 312  
-3.11 Floating-Point Code 329  
-3.12 Summary 345 Bibliographic Notes 346                        //3주  
+3.11 Floating-Point Code 329  ----------------------------------------------- skip
+3.12 Summary 345 Bibliographic Notes 346                        
 
 ### 4. Processor Architecture 387  
-4.1 The Y86-64 Instruction Set Architecture 391  
-4.2 Logic Design and the Hardware Control Language HCL 408      //4주  
+4.1 The Y86-64 Instruction Set Architecture 391                   //4주  
+4.2 Logic Design and the Hardware Conwwtrol Language HCL 408      
 4.3 Sequential Y86-64 Implementations 420  
 4.4 General Principles of Pipelining 448                        //5주  
 4.5 Pipelined Y86-64 Implementations 457                        //6주 7주  
