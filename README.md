@@ -64,15 +64,15 @@
 3.8 Array Allocation and Access 291  
 3.9 Heterogeneous Data Structures 301                           
 3.10 Combining Control and Data in Machine-Level Programs 312  
-3.11 Floating-Point Code 329  ----------------------------------------------- skip
+3.11 Floating-Point Code 329 skip  
 3.12 Summary 345 Bibliographic Notes 346                        
 
 ### 4. Processor Architecture 387  
-4.1 The Y86-64 Instruction Set Architecture 391                   //4주  
+4.1 The Y86-64 Instruction Set Architecture 391                   
 4.2 Logic Design and the Hardware Conwwtrol Language HCL 408      
 4.3 Sequential Y86-64 Implementations 420  
-4.4 General Principles of Pipelining 448                        //5주  
-4.5 Pipelined Y86-64 Implementations 457                        //6주 7주  
+4.4 General Principles of Pipelining 448                        
+4.5 Pipelined Y86-64 Implementations 457                      
 4.6 Summary 506  
   
    
